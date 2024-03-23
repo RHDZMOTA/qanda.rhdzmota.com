@@ -1,0 +1,1 @@
+rhdzmota[ext.streamlit_webapps]==3.1.0
